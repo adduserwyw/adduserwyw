@@ -26,5 +26,6 @@ Just a Web/App developer passing by.
 
 ### Others
 ![](https://komarev.com/ghpvc/?username=adduserwyw&abbreviated=true&color=lightgrey)
+![](https://hit.yhype.me/github/profile?user_id=93748904)
 
   <br />
