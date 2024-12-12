@@ -27,5 +27,13 @@ Just a Web/App developer passing by.
 ### Others
 ![](https://komarev.com/ghpvc/?username=adduserwyw&abbreviated=true&color=lightgrey)
 ![](https://hit.yhype.me/github/profile?user_id=93748904)
-
+<table width="100%">
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=adduserwyw&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=2ecc71&dates=3498db&currStreakNum=e74c3c&ring=8e44ad&fire=f1c40f&currStreakLabel=1abc9c&background=00000000"
+      />
+    </td>
+</table>
   <br />
