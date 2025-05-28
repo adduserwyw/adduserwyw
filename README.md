@@ -7,7 +7,23 @@ Just a Web/App developer passing by.
 
 [![wakatime](https://wakatime.com/badge/user/018b6310-6881-4188-89cf-469ea55ef4c0.svg)](https://wakatime.com/@018b6310-6881-4188-89cf-469ea55ef4c0)
 
-### ⚙️  My Daily Drive
+### Others
+![](https://komarev.com/ghpvc/?username=adduserwyw&abbreviated=true&color=lightgrey)
+![](https://hit.yhype.me/github/profile?user_id=93748904)
+<table width="100%">
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=adduserwyw&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=2ecc71&dates=3498db&currStreakNum=e74c3c&ring=8e44ad&fire=f1c40f&currStreakLabel=1abc9c&background=00000000"
+      />
+    </td>
+</table>
+  <br />
+
+
+
+<!--  ### ⚙️  My Daily Drive
 [![macOS](https://img.shields.io/badge/macOS%2014.2-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2023.10-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
 [![iOS](https://img.shields.io/badge/iOS%2017-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
@@ -22,18 +38,4 @@ Just a Web/App developer passing by.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-green?style=flat-square&logo=gnu%20bash&logoColor=white)
-
-### Others
-![](https://komarev.com/ghpvc/?username=adduserwyw&abbreviated=true&color=lightgrey)
-![](https://hit.yhype.me/github/profile?user_id=93748904)
-<table width="100%">
-  <tr>
-    <td>
-      <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=adduserwyw&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=2ecc71&dates=3498db&currStreakNum=e74c3c&ring=8e44ad&fire=f1c40f&currStreakLabel=1abc9c&background=00000000"
-      />
-    </td>
-</table>
-  <br />
+![Shell](https://img.shields.io/badge/-Shell-green?style=flat-square&logo=gnu%20bash&logoColor=white)  -->
